@@ -5,18 +5,18 @@
   "daily": {
     "format": "YYYY/[W]ww/YYYY-MM-DD",
     "folder": "Journal",
-    "template": "Templates/Daily.md",
+    "template": "DIYgod-Obsidian-Starter/Templates/Daily.md",
     "enabled": true
   },
   "weekly": {
     "format": "YYYY/[W]ww/YYYY-[W]ww",
-    "template": "Templates/Weekly.md",
+    "template": "DIYgod-Obsidian-Starter/Templates/Weekly.md",
     "folder": "Journal",
     "enabled": true
   },
   "monthly": {
     "format": "YYYY/YYYY-MM",
-    "template": "Templates/Monthly.md",
+    "template": "DIYgod-Obsidian-Starter/Templates/Monthly.md",
     "folder": "Journal",
     "enabled": true
   },
